@@ -1,0 +1,19 @@
+{
+"settings_file": "",
+"preprocessing_timepath":"09_19_05_48",
+"scale_factor":6,
+"lr":0.001,
+"batch_size": 32,
+"nb_epochs": 200,
+"activation":"selu",
+"loss1":"mse",
+"loss2":"mse",
+"opt":"RMSprop",
+"filter":32,
+"regularizer":0.00000001,
+"dense_units":128,
+"conv_filter":4,
+"time_kernel":4,
+"time_strides":1,
+"memory_size":50
+}
