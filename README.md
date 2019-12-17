@@ -53,9 +53,9 @@ The trained model weights will be saved in `<resultdata>` folder.
  ### Anomaly detection
  Firstly, you should change the weights path in `universal_find_best_in_trained_models.py`:
  ```
- model_path="../resultdata/11_17_21_24conditional_results/models"
+ model_path="../resultdata/11_17_21_24conditional_results/models/model.h5"
  ```
- The path should be changed baesed on your own cases.
+ The path should be changed based on your own cases.
 
  <br>Secondly, begin test:
  ```
