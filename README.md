@@ -1,6 +1,9 @@
 ## MCCED
 
-This repo shows how the whole anomaly detection system works including data preprocessing, model training, model test (anomaly detection) and data visualization.
+This project is to support the researcg paper: "Anomaly Detection with Memory-Enhanced Composite Neural Networks for Industrial Control Systems"
+
+It is a prototype intrusion detection system including the following functions:data preprocessing, model training, model test (anomaly detection) and data visualization.
+
 
 ### Installation
 ```
