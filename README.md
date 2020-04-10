@@ -1,8 +1,8 @@
 ## MCCED
 
-This project is to support the researcg paper: "Anomaly Detection with Memory-Enhanced Composite Neural Networks for Industrial Control Systems"
+This project is to support the research paper: "Anomaly Detection with Memory-Enhanced Composite Neural Networks for Industrial Control Systems"
 
-It is a prototype intrusion detection system including the following functions:data preprocessing, model training, model test (anomaly detection) and data visualization.
+It is a prototype Intrusion Detection System with the following functions:data preprocessing, model training, real-time anomaly detection and data visualization.
 
 
 ### Installation
